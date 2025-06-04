@@ -138,7 +138,7 @@
     system-ui, -apple-system, sans-serif, BlinkMacSystemFont, "Segoe UI",
     Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol";
-  --menu-link-active: rgba(0, 0, 0, 0.1);
+  /* --menu-link-active: rgba(0, 0, 0, 0.1); */
   --ifm-menu-link-padding-vertical: 0.5rem;
   --docs-fg-base: #030712;
   --ifm-menu-color-active: var(--docs-fg-base);
@@ -156,7 +156,7 @@ html[data-theme="dark"] {
   --ifm-background-color: #14102c;
   --ifm-background-surface-color: #14102c;
   --ifm-footer-link-color: #dadde1;
-  --ifm-color-primary: #16ad8d;
+  --ifm-color-primary: #3d3b99;
   --ifm-menu-color-background-active: #ffffff1a;
   --menu-link-active: rgba(255, 255, 255, 0.1);
   --ifm-menu-color-active: var(--ifm-color-primary);
@@ -327,6 +327,18 @@ div[class^="docItemContainer_"] article img {
 
 .bg-crow-dark {
   background-color: #13102a;
+}
+
+.bg-crow-primary {
+  background-color: #3d3b99;
+}
+
+.text-crow-primary {
+  color: #3d3b99;
+}
+
+.bg-crow-secondary {
+  background-color: #7c7ff2;
 }
 
 .grid-bg::before {
