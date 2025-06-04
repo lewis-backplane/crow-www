@@ -20,7 +20,7 @@ export default function Home() {
 
       <main className="max-w-3xl mx-auto px-4 text-justify mb-16 ">
         <Testimonial
-          quote="Crowsnest was born out of a simple but pressing reality: cybersecurity
+          quote="CrowsNest was born out of a simple but pressing reality: cybersecurity
           compliance is broken."
           name="Robert Erenberg-Andersen"
           role="CEO & Founder"
@@ -36,14 +36,14 @@ export default function Home() {
           had to be a better way.
         </p>
         <p>
-          Crowsnest was created to bring clarity and control to cybersecurity
+          CrowsNest was created to bring clarity and control to cybersecurity
           compliance. Not just another dashboard—but a living, breathing vantage
           point for your organization’s security posture. A single place where
           frameworks converge, controls are mapped, and gaps are made visible in
           real-time.
         </p>
         <p>
-          Built by cyber veterans, Crowsnest bridges the divide between security
+          Built by cyber veterans, CrowsNest bridges the divide between security
           operations and compliance expectations—automating the grunt work,
           aligning your efforts with standards like NIST, ISO 27001, CIS, and
           ISF, and helping your teams move faster, smarter, and with confidence.
@@ -53,7 +53,7 @@ export default function Home() {
 
         <h2 className="text-3xl tracking-tight  text-gray-900 dark:text-white">
           {" "}
-          Introducing Crowsnest
+          Introducing CrowsNest
         </h2>
         <p>
           We’ve lived the complexity, the burnout, and the blind spots. We’ve
@@ -69,15 +69,15 @@ export default function Home() {
           />
         </div>
 
-        <p>That’s why we built Crowsnest.</p>
+        <p>That’s why we built CrowsNest.</p>
         <p>
-          Crowsnest is your central vantage point for cybersecurity compliance.
+          CrowsNest is your central vantage point for cybersecurity compliance.
           A unified platform that brings together frameworks, controls, and
           evidence into one real-time, actionable view. No more static
           spreadsheets, manual mappings, or guesswork.
         </p>
         <p>
-          With Crowsnest, security and compliance teams can finally work from
+          With CrowsNest, security and compliance teams can finally work from
           the same playbook—tracking posture across frameworks like NIST, ISO
           27001, CIS, and ISF, surfacing gaps before they become issues, and
           driving continuous assurance across the organization.
@@ -88,7 +88,7 @@ export default function Home() {
         </p>
 
         <p>
-          Welcome to Crowsnest. Built by cyber experts. Designed for clarity.
+          Welcome to CrowsNest. Built by cyber experts. Designed for clarity.
           Engineered for trust.
         </p>
       </main>

@@ -17,9 +17,9 @@ const FeatureSection = () => {
             Autonomous Compliance Telemetry, Delivered by Data Crows
           </h2>
           <p className="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">
-            Crowsnest deploys intelligent data crows that traverse your
+            CrowsNest deploys intelligent data crows that traverse your
             infrastructure to collect real-time telemetry, evidence, and
-            compliance signals. These are returned to the central Crowsnest hub,
+            compliance signals. These are returned to the central CrowsNest hub,
             where they're continuously evaluated against your products,
             policies, and leading cybersecurity frameworks — giving you a live,
             accurate view of your compliance posture.

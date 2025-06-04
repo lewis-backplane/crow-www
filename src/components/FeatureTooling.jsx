@@ -15,14 +15,14 @@ const FeatureTooling = ({ vendors }) => {
           </h2>
           <p className="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">
             <p>
-              Crowsnest plugs into hundreds of security tools across your stack
+              CrowsNest plugs into hundreds of security tools across your stack
               — cloud, CI/CD, identity, endpoints, and more — pulling real-time
               signals into one unified view. No silos, no stale data. Just
               always-on visibility that reflects your true compliance posture.
             </p>
 
             <p>
-              Go beyond surface-level vendor dashboards. Crowsnest delivers
+              Go beyond surface-level vendor dashboards. CrowsNest delivers
               deep, actionable insights with business-contextualised risk
               visibility, enabling the right teams to remediate efficiently and
               with clarity. Multicloud support isn’t a premium — it’s built in

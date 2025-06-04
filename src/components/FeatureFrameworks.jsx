@@ -8,11 +8,11 @@ const FeatureFrameworks = ({ vendors }) => {
           </h2>
           <p className="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">
             <p>
-              Crowsnest continuously maps your security signals to leading
+              CrowsNest continuously maps your security signals to leading
               industry frameworks like ISO 27001, NIST, CIS, SOC 2, and more —
               automatically identifying control coverage, gaps, and compliance
               status. Whether you're preparing for an audit or scaling trust
-              with customers, Crowsnest keeps you aligned and audit-ready by
+              with customers, CrowsNest keeps you aligned and audit-ready by
               design.
             </p>
           </p>

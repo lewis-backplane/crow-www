@@ -8,15 +8,15 @@ const FeatureSection = ({ vendors }) => {
           </h2>
           <p className="mb-6 font-light text-gray-500 md:text-lg dark:text-gray-400">
             <p>
-              Crowsnest integrates effortlessly with your existing cloud
+              CrowsNest integrates effortlessly with your existing cloud
               platforms — no heavy lifting required. It pulls live compliance
-              telemetry directly into the Crowsnest Compliance Manager, giving
+              telemetry directly into the CrowsNest Compliance Manager, giving
               you a unified view of your organisation’s security posture through
               the lens of individual products and workloads.
             </p>
 
             <p>
-              Go beyond surface-level vendor dashboards. Crowsnest delivers
+              Go beyond surface-level vendor dashboards. CrowsNest delivers
               deep, actionable insights with business-contextualised risk
               visibility, enabling the right teams to remediate efficiently and
               with clarity. Multicloud support isn’t a premium — it’s built in
