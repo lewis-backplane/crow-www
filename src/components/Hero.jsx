@@ -3,7 +3,7 @@ const Hero = () => {
     <section className="dark:bg-crow-dark ">
       <div className="py-4 px-4 mx-auto max-w-screen-xl text-center ">
         <img
-          src="./img/cnui.svg"
+          src="img/cnui.svg"
           className="h-88 mb-10 mx-auto shadow-xl rounded-lg"
         />
 
