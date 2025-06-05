@@ -88,7 +88,7 @@ const Features = () => {
               </svg>
             </div>
             <h3 className="mb-2 text-lg text-crow-primary text-center font-bold dark:text-white h-12">
-              Data Extractors
+              Crow Data Extractors
             </h3>
             <p className="text-gray-500 dark:text-gray-400 text-xs mt-5">
               Assign responsibilities, tag reviewers, and track progress. Bring
@@ -173,7 +173,7 @@ const Features = () => {
               </svg>
             </div>
             <h3 className="mb-2 text-lg text-crow-primary text-center font-bold dark:text-white h-12">
-              Customise Framework
+              Custom Frameworks
             </h3>
             <p className="text-gray-500 dark:text-gray-400 text-xs mt-5">
               Visualize how controls align across multiple frameworks. Use one
